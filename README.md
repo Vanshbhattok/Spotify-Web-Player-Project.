@@ -48,21 +48,24 @@ WeTunes/
 - Playlist cards are rendered dynamically, and clicking them loads songs.
 - Audio player plays `.mp3` files directly from Cloudinary URLs.
 
+
 ---
 
 ## 🌐 Live Demo
 
 👉 [Visit WeTunes on Render](https://your-render-url.onrender.com)
 
----
 
 ## 📸 Screenshots
 
-| Playlist View                     | Playing Music                   |
-|----------------------------------|----------------------------------|
-| ![Playlist](https://res.cloudinary.com/<your-cloud-name>/image/upload/v1710000001/playlist.png) | ![Player](https://res.cloudinary.com/<your-cloud-name>/image/upload/v1710000002/player.png) |
+- WeTune's Desktop View:
 
----
+- ![image](https://github.com/user-attachments/assets/ee3b15a9-1946-4de4-ae30-4e052287f799)
+
+- WeTune's Responsive View:
+
+- ![image](https://github.com/user-attachments/assets/ee060858-f313-4a23-85c8-302d6c28e524)
+
 
 ## 🚧 How to Run Locally
 
