@@ -105,9 +105,6 @@ Visit `http://localhost:3000`
 1. Upload all `.mp3` files into Cloudinary folders
 2. Copy their secure URLs
 3. In `script.js`, set:
-```js
-const cloudinaryBaseURL = "https://res.cloudinary.com/<your-cloud-name>/video/upload/BestOnes/";
-```
 
 ---
 
@@ -122,7 +119,7 @@ const cloudinaryBaseURL = "https://res.cloudinary.com/<your-cloud-name>/video/up
 
 ## 📜 License
 
-This project is for educational purposes and is inspired by CodeWithHarry's Spotify clone tutorial. All rights to Spotify™ and its assets belong to their respective owners.
+MIT License
 
 ---
 
@@ -138,6 +135,6 @@ This project is for educational purposes and is inspired by CodeWithHarry's Spot
 
 📧 **Vansh Bhatt** – vanshbhattok@gmail.com  
 🔗 [GitHub](https://github.com/Vanshbhattok)  
-🏫 BTEC CSE – UPES University
+🏫 BTech-CSE – UPES 
 
 ---
